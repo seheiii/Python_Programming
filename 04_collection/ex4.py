@@ -76,6 +76,7 @@ b = (x for x in range(1, 11))
 
 print(sum(a), sum(a))
 print(sum(b), sum(b))
+3
 
 # 1 ~ 10의 제곱수 튜플 만들기
 # ()는 튜플이 아니라 generator를 생성하는 generator 표현식임
